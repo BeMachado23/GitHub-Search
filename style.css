@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    align-items: center;
+}
+body h1{
+    color: aliceblue;
+}
+.profile-container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;  
+    text-align: center; 
+    margin-top: 25rem;
+}
+.profileImg{
+    border-radius: 8rem;
+}
+.profile-container p{
+    color: aliceblue;
+   
+}
